@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in VR, HCI, ML, and AGI
+- 👀 I’m interested in VR, HCI, and ML.
 - 🌱 I’m currently working on a VR language learning platform and a research paper to upscale ultrasound images to CT scan quality in real-time
 - 💞️ I’m looking to collaborate on VR or novel interfaces for consuming AI
 - 📫 How to reach me: dm on https://twitter.com/NickFausti or https://instagram.com/nickfausti
